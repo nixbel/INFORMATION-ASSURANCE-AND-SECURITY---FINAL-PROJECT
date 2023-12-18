@@ -15,7 +15,7 @@
 
 - ### Visit the [Official Raspberry Pi Website](https://www.raspberrypi.com/software/)
 
-![Pic 1]([images/pic1.png](https://github.com/nixbel/INFORMATION-ASSURANCE-AND-SECURITY---FINAL-PROJECT/blob/main/pic1.png))
+![Pic1]([images/pic1.png](https://github.com/nixbel/INFORMATION-ASSURANCE-AND-SECURITY---FINAL-PROJECT/blob/main/pic1.png))
 
 - ### Now click _**"Download for Windows"**_ or [Click this](https://downloads.raspberrypi.org/imager/imager_latest.exe) to redirect download.
 
